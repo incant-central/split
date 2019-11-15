@@ -1,6 +1,6 @@
 {
   "name": "@incant/split",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Split Task for Incant",
   "main": "index.js",
   "scripts": {
